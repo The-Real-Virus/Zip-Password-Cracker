@@ -20,5 +20,6 @@ Step 2: install zipfile module.
 
 sudo apt update
 sudo apt install python3-zipfile
+(if it shows unable to locate package then just close the terminal its pre-installed means u can run the script)
 
 ( Now close the terminal and open new one to run the tool )
