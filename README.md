@@ -1,4 +1,4 @@
-# 🔐 Zip Password Cracker
+# 💀Zip Password Cracker💀
 
 ## 📜Description
 Welcome to the ZIP Password Cracker! This Python script is a lightweight tool designed to help you  
